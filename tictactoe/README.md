@@ -1,6 +1,17 @@
-# tictactoe
+# Tic Tac Toe Game
 
-A new Flutter project.
+A cross-platform mobile app written in Flutter.
+
+## Screenshots
+
+Below are screenshots of the app running on an iphone 7.
+
+![Repo List](screenshots/new_game.png)
+
+![Repo List](screenshots/game_in_progress.png)
+
+![Repo List](screenshots/winner.png)
+
 
 ## Getting Started
 

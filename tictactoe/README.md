@@ -6,11 +6,11 @@ A cross-platform mobile app written in Flutter.
 
 Below are screenshots of the app running on an iphone 7.
 
-![Repo List](screenshots/new_game.png)
-
-![Repo List](screenshots/game_in_progress.png)
-
-![Repo List](screenshots/winner.png)
+<span>
+<img src="screenshots/new_game.PNG" height="475">
+<img src="screenshots/game_in_progress.PNG" height="475">
+<img src="screenshots/winner.PNG" height="475">
+</span>
 
 
 ## Getting Started
